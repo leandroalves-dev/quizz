@@ -1,6 +1,6 @@
 # Meu Projeto
 
-Quizz de perguntas e respostas. Desenvolvido em javaScript puro
+Review - é um carrossel de informação. Desenvolvido em javaScript puro
 
 ## Tecnologias usadas
 
